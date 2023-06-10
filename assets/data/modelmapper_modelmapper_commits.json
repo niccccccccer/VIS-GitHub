@@ -1,0 +1,2545 @@
+[
+  { "total_commits": 721 },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2022-12-08T03:51:42Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-3.1.1",
+    "committedDate": "2022-12-08T03:51:35Z"
+  },
+  {
+    "message": "Update asm-tree lib version",
+    "committedDate": "2022-12-07T07:26:36Z"
+  },
+  {
+    "message": "Throw error if skip conflict",
+    "committedDate": "2022-05-23T21:24:19Z"
+  },
+  {
+    "message": "Add error message while skip conflict",
+    "committedDate": "2022-05-18T10:04:50Z"
+  },
+  { "message": "Add UuidConverter", "committedDate": "2022-05-18T09:19:11Z" },
+  {
+    "message": "Support named empty type map",
+    "committedDate": "2022-05-18T08:52:01Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2022-03-08T08:15:56Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-3.1.0",
+    "committedDate": "2022-03-08T08:15:51Z"
+  },
+  { "message": "Bump testng", "committedDate": "2022-03-08T08:14:05Z" },
+  {
+    "message": "[maven-release-plugin] rollback the release of modelmapper-parent-3.1.0",
+    "committedDate": "2022-03-08T08:10:20Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2022-03-08T07:57:30Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-3.1.0",
+    "committedDate": "2022-03-08T07:57:25Z"
+  },
+  {
+    "message": "Updates CHANGES.md for 3.1.0 release",
+    "committedDate": "2022-03-08T07:47:19Z"
+  },
+  {
+    "message": "Add unit tests for optional converters",
+    "committedDate": "2022-01-17T02:03:56Z"
+  },
+  {
+    "message": "Migrate optional converter from modelmapper-module-java8",
+    "committedDate": "2022-01-17T01:17:01Z"
+  },
+  {
+    "message": "Remove outdated javadoc badge",
+    "committedDate": "2022-01-14T02:33:50Z"
+  },
+  { "message": "Bump dependencies", "committedDate": "2022-01-14T02:32:23Z" },
+  {
+    "message": "Updates CHANGES.md for 3.0.0",
+    "committedDate": "2022-01-05T07:29:17Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2022-01-05T07:11:00Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-3.0.0",
+    "committedDate": "2022-01-05T07:10:55Z"
+  },
+  {
+    "message": "Makes the option collectionsMergeEnabled disable by default",
+    "committedDate": "2022-01-05T07:06:36Z"
+  },
+  { "message": "Minimum jdk8", "committedDate": "2022-01-05T06:17:03Z" },
+  {
+    "message": "Updates version to 3.0.0 for switching minimum jdk 1.8",
+    "committedDate": "2021-12-29T08:27:23Z"
+  },
+  { "message": "Update CHANGES.md", "committedDate": "2021-12-06T06:28:32Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2021-12-06T06:14:47Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.4.5",
+    "committedDate": "2021-12-06T06:14:38Z"
+  },
+  {
+    "message": "Bump byte-buddy to 1.12.3",
+    "committedDate": "2021-12-06T06:11:19Z"
+  },
+  { "message": "Bump asm to 9.2", "committedDate": "2021-12-06T05:49:16Z" },
+  {
+    "message": "Replace travis ci badge with github actions",
+    "committedDate": "2021-12-06T05:48:55Z"
+  },
+  {
+    "message": "Revert \"Add java 17 to github actions\"\n\nThis reverts commit 8cd01fcbdaa1928fb0fccc4ca5ee90f2ac25d907.",
+    "committedDate": "2021-12-06T05:44:01Z"
+  },
+  {
+    "message": "Add java 17 to github actions",
+    "committedDate": "2021-12-06T05:41:58Z"
+  },
+  {
+    "message": "replace Travis CI with GitHub Actions",
+    "committedDate": "2021-11-09T05:35:07Z"
+  },
+  {
+    "message": "Improve performance on implicit mapping (#619)\n\n* Add benchmark\r\n\r\n* Improves performance of implicit mapping based on profiling",
+    "committedDate": "2021-06-04T06:07:22Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2021-05-27T08:46:29Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.4.4",
+    "committedDate": "2021-05-27T08:46:18Z"
+  },
+  {
+    "message": "Merge pull request #617 from AntuanRokanten/map-enums-with-anonymous-class\n\nType map store lookup fix for enums with anonymous class",
+    "committedDate": "2021-05-27T01:35:25Z"
+  },
+  {
+    "message": "type map store lookup fix for enums with anonymous class",
+    "committedDate": "2021-05-26T16:17:03Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2021-05-10T00:58:37Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.4.3",
+    "committedDate": "2021-05-10T00:58:29Z"
+  },
+  {
+    "message": "Update changelog for 2.4.3 release",
+    "committedDate": "2021-05-10T00:50:35Z"
+  },
+  {
+    "message": "Stop looking properties from java internal types\n\nResolved: #613",
+    "committedDate": "2021-05-07T06:16:00Z"
+  },
+  {
+    "message": "Reduces calls for resolving props from map for fixing ClassCastException",
+    "committedDate": "2021-05-05T06:17:44Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2021-04-28T08:51:16Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.4.2",
+    "committedDate": "2021-04-28T08:51:08Z"
+  },
+  {
+    "message": "Updates CHANGES for 2.4.2",
+    "committedDate": "2021-04-28T08:46:40Z"
+  },
+  {
+    "message": "Fix addMappings wrong state when adding multiple mappings\n\nResolved: #608",
+    "committedDate": "2021-04-28T08:41:51Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2021-04-21T06:32:57Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.4.1",
+    "committedDate": "2021-04-21T06:32:50Z"
+  },
+  {
+    "message": "Update change log for 2.4.1",
+    "committedDate": "2021-04-21T06:28:14Z"
+  },
+  {
+    "message": "Bump asm, typetools, and byte-buddy version",
+    "committedDate": "2021-04-21T06:20:25Z"
+  },
+  {
+    "message": "Fix anonymous enum conversion",
+    "committedDate": "2021-04-16T00:20:39Z"
+  },
+  {
+    "message": "Create intermediate object depends on if match source found\n\nResolved: #521",
+    "committedDate": "2021-04-08T03:04:30Z"
+  },
+  {
+    "message": "Keep the parent source as a chain to have correct src in context\n\nResolved: #573",
+    "committedDate": "2021-04-08T01:40:08Z"
+  },
+  {
+    "message": "Keep the generic type info for map's value type\n\nResolved: #547",
+    "committedDate": "2021-04-08T01:10:23Z"
+  },
+  {
+    "message": "Resolve more specific type of value reader\n\nFixed: #563",
+    "committedDate": "2021-04-06T06:04:38Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2021-03-31T05:37:26Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.4.0",
+    "committedDate": "2021-03-31T05:37:18Z"
+  },
+  {
+    "message": "Update CHANGES.md for 2.4.0 release",
+    "committedDate": "2021-03-31T05:34:43Z"
+  },
+  {
+    "message": "Add new option 'preferNestedProperties' for circular reference mapping\n\nIt's too complex to map nested properties for circular reference models.\nWe provides an option to disable the nested properties mapping when user\nwants to map a circular reference models.\n\nResolved: #565",
+    "committedDate": "2021-03-31T03:20:32Z"
+  },
+  {
+    "message": "Supports conditional skip `when().skip(src, dest)`\n\nResolved: #588, #574",
+    "committedDate": "2021-03-31T03:16:04Z"
+  },
+  {
+    "message": "Resolve key value types correctly for map subclasses\n\nResolved: #550",
+    "committedDate": "2021-03-24T07:32:11Z"
+  },
+  {
+    "message": "Fix wrong cyclic referece detect, we check if the path is matched\n\nResolved: #581",
+    "committedDate": "2021-03-24T06:09:54Z"
+  },
+  {
+    "message": "Handles protobuf iterable\n\nResolved: #392",
+    "committedDate": "2021-03-24T01:10:53Z"
+  },
+  {
+    "message": "Refactor and fix some bugs\n\n1. Use ConditionalConverter and the internal converter store instead, to\nprevent ModelMapper from creating multiple TypeMap.\n2. Nulls check\n3. Remove duplicate code for protobuf value writer",
+    "committedDate": "2021-03-24T01:04:27Z"
+  },
+  {
+    "message": "Reduces redundant proxy to speed up setup explicit mappings\n\nReflections are slow, reduces the calls can speed up modelmapper.",
+    "committedDate": "2021-03-24T00:28:42Z"
+  },
+  {
+    "message": "Fix warning when running tests on jdk11",
+    "committedDate": "2021-03-23T07:44:52Z"
+  },
+  {
+    "message": "Add maven plugin versions",
+    "committedDate": "2021-03-23T07:43:58Z"
+  },
+  {
+    "message": "Eliminate warnings while defining explicit mapping on collections\n\nJdk 9 and newer JDK display warning messages while we are trying to\nproxy a java colleciton type java collection type. To fix this issue,\nwe just return null when we are proxy a collection type, because it's\nuseless to proxy a collection while defining an explicit mapping,\n\nResolved: #414",
+    "committedDate": "2021-03-23T07:11:17Z"
+  },
+  {
+    "message": "Enable depedency caching for travis",
+    "committedDate": "2021-03-12T08:48:42Z"
+  },
+  {
+    "message": "chore: remove unused import",
+    "committedDate": "2021-02-18T09:25:55Z"
+  },
+  {
+    "message": "chore: remove deprecated method Class#newInstance()",
+    "committedDate": "2021-02-17T00:45:06Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2020-11-20T05:24:34Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.9",
+    "committedDate": "2020-11-20T05:24:23Z"
+  },
+  {
+    "message": "#564 - Bump ASM to version 9",
+    "committedDate": "2020-10-27T09:07:04Z"
+  },
+  {
+    "message": "Fix dropping post-converter result",
+    "committedDate": "2020-07-13T06:09:01Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2020-06-05T02:34:35Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.8",
+    "committedDate": "2020-06-05T02:34:24Z"
+  },
+  {
+    "message": "Update CHANGES.md for next release",
+    "committedDate": "2020-06-05T02:24:47Z"
+  },
+  {
+    "message": "Try to fix IllegalArgumentException due to package renaming (#522)\n\n* Use naming strategy without prefix so that renaming can't tamper with it and the IllegalArgumentException doesn't occur\r\n\r\nResolved: #482\r\n\r\nCo-authored-by: Alfergon <alvaro@blunder.es>",
+    "committedDate": "2020-06-05T01:18:00Z"
+  },
+  {
+    "message": "Merge pull request #538 from nfalco79/patch-1\n\nUpdate typetools to 0.6.2",
+    "committedDate": "2020-05-21T05:23:23Z"
+  },
+  {
+    "message": "Update typetools to 0.6.2\n\nUpdate typetools to version 0.6.2 to better support jdk11",
+    "committedDate": "2020-04-29T13:28:51Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2020-03-30T03:32:09Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.7",
+    "committedDate": "2020-03-30T03:31:59Z"
+  },
+  {
+    "message": "Ignore intellij files",
+    "committedDate": "2020-03-30T03:30:21Z"
+  },
+  {
+    "message": "Update changelog for release",
+    "committedDate": "2020-03-30T03:29:31Z"
+  },
+  {
+    "message": "Fix logical bug in PropertyInfoRegistry\n\nFixes #520 #528.",
+    "committedDate": "2020-03-28T17:07:28Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2019-12-24T02:54:27Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.6",
+    "committedDate": "2019-12-24T02:54:13Z"
+  },
+  {
+    "message": "Update CHANGES.md for next release",
+    "committedDate": "2019-12-24T02:06:05Z"
+  },
+  {
+    "message": "Merge pull request #513 from modelmapper/jdk13\n\nUpdate asm to support jdk13",
+    "committedDate": "2019-12-24T02:04:38Z"
+  },
+  {
+    "message": "Update asm to support jdk13",
+    "committedDate": "2019-12-24T01:46:07Z"
+  },
+  {
+    "message": "Merge pull request #491 from martinfe82/map_generic_type_mapping\n\nallow mapping of generic map types",
+    "committedDate": "2019-09-19T00:47:43Z"
+  },
+  {
+    "message": "Merge pull request #488 from yoshikawaa/issues/485\n\nFix configuration 'collectionsMergeEnabled','deepCopyEnabled' (modelmapper#485)",
+    "committedDate": "2019-09-18T09:44:15Z"
+  },
+  {
+    "message": "Fix configuration 'collectionsMergeEnabled','deepCopyEnabled' (modelmapper#485)",
+    "committedDate": "2019-09-18T02:24:44Z"
+  },
+  {
+    "message": "Add contributing guidelines",
+    "committedDate": "2019-08-16T04:32:49Z"
+  },
+  {
+    "message": "allow mapping of generic map types",
+    "committedDate": "2019-08-02T07:19:35Z"
+  },
+  {
+    "message": "Attempt to fix the travis builds",
+    "committedDate": "2019-07-25T03:28:11Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2019-06-26T01:48:13Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.5",
+    "committedDate": "2019-06-26T01:47:55Z"
+  },
+  {
+    "message": "CHANGES updated for next release",
+    "committedDate": "2019-06-26T01:32:29Z"
+  },
+  {
+    "message": "Added possibility to map using condition and converter together. (#470)\n\nAdded possibility to map using condition and converter together.\r\n\r\nResolved #463",
+    "committedDate": "2019-06-21T06:50:07Z"
+  },
+  {
+    "message": "Merge pull request #476 from nfalco79/feature/merge_collection\n\nChange collections merge strategy breaks collection mapping",
+    "committedDate": "2019-06-10T09:01:40Z"
+  },
+  {
+    "message": "Merge pull request #478 from petercatalin/patch-1\n\nHibernate proxies are now detected when implicit mapping is set to f\u2026",
+    "committedDate": "2019-06-10T08:58:20Z"
+  },
+  {
+    "message": "Hibernate proxies are now detected when implicit mappings is set to false.",
+    "committedDate": "2019-06-10T08:29:12Z"
+  },
+  {
+    "message": "Fix converters order when setup converters in ConverterStore",
+    "committedDate": "2019-06-09T11:02:19Z"
+  },
+  {
+    "message": "Change collections merge strategy breaks mapping of collection from a source type to a destination type",
+    "committedDate": "2019-06-04T14:05:11Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2019-05-18T14:13:02Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.4",
+    "committedDate": "2019-05-18T14:08:53Z"
+  },
+  {
+    "message": "Update CHANGES.md for next release",
+    "committedDate": "2019-05-18T13:46:49Z"
+  },
+  {
+    "message": "Merge pull request #466 from wangzw/issue-422\n\nProtobuf extension breaks if protobuf message variables contain underscore",
+    "committedDate": "2019-05-07T01:15:26Z"
+  },
+  {
+    "message": " Protobuf extension breaks if protobuf message variables contain underscore #422",
+    "committedDate": "2019-05-06T14:06:00Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2019-04-13T07:41:36Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.3",
+    "committedDate": "2019-04-13T07:41:24Z"
+  },
+  { "message": "Updates CHANGES.md", "committedDate": "2019-04-13T07:34:04Z" },
+  {
+    "message": "Merge pull request #456 from vignesh-ideas/bugfix/date\n\nParse date from String to java.util.Date in yyyy-MM-dd format",
+    "committedDate": "2019-04-09T06:12:17Z"
+  },
+  {
+    "message": "Parse date from String to java.util.Date in yyyy-MM-dd format",
+    "committedDate": "2019-04-08T06:04:09Z"
+  },
+  {
+    "message": "Types#isProxied supports HibernateProxy\n\nBeginning of fix to modelmapper/modelmapper#442",
+    "committedDate": "2019-04-08T01:11:02Z"
+  },
+  {
+    "message": "adds a non-merging collection converter and a configuration option to choose between a the collection converters.",
+    "committedDate": "2019-04-08T01:09:04Z"
+  },
+  {
+    "message": "Fixed invalid property info return on hashCode collision\n\n- Sometimes `hashCodeFor` returns same value for different properties.\n- Then `PropertyInfoRegistry` stores just one property and ignores others.\n- So, use `PropertyInfoKey` as a cache key instead of `Integer` to resolve hashCode collision.",
+    "committedDate": "2019-01-20T02:00:55Z"
+  },
+  {
+    "message": "Use destination's type if destinationType is Object or Unknown\n\nResolved: #415",
+    "committedDate": "2018-12-15T08:21:26Z"
+  },
+  {
+    "message": "Fixed implicit mapping can't map nested property with same type\n\nResolved: #408",
+    "committedDate": "2018-12-15T05:58:58Z"
+  },
+  {
+    "message": "Merge pull request #418 from luankevinferreira/patch-1\n\nFix javadoc link",
+    "committedDate": "2018-11-28T14:23:43Z"
+  },
+  { "message": "Fix javadoc link", "committedDate": "2018-11-27T18:23:38Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-11-26T12:06:01Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.2",
+    "committedDate": "2018-11-26T12:05:49Z"
+  },
+  { "message": "Updates CHANGES.md", "committedDate": "2018-11-26T11:47:47Z" },
+  {
+    "message": "Merge pull request #416 from hadri3n/add_asm7.0_support\n\nAdd asm7.0 support",
+    "committedDate": "2018-11-22T01:25:47Z"
+  },
+  {
+    "message": "rollback objenesis dependencie version",
+    "committedDate": "2018-11-21T12:42:26Z"
+  },
+  {
+    "message": "set compatibility to ASM7",
+    "committedDate": "2018-11-21T12:29:31Z"
+  },
+  {
+    "message": "update dependencies version",
+    "committedDate": "2018-11-21T12:29:18Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-10-31T15:14:40Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.1",
+    "committedDate": "2018-10-31T15:14:27Z"
+  },
+  {
+    "message": "Merge pull request #411 from kregoslup/collections-iterator-bug\n\nFix NoSuchElementException when iterating through Collection interface using iterator",
+    "committedDate": "2018-10-18T03:56:49Z"
+  },
+  {
+    "message": "Fix fetching elements from Collection at index using iterator",
+    "committedDate": "2018-10-15T15:41:01Z"
+  },
+  {
+    "message": "Merge pull request #407 from nfalco79/feature/osgi-manifest\n\nMark com.misc as optional dependencies in MANIFEST.MF",
+    "committedDate": "2018-10-01T13:35:25Z"
+  },
+  {
+    "message": "Mark com.misc as optional dependencies in MANIFEST.MF\nUse Embed-Dependency directive of maven bundle plugin to calculate imports of third party dependencies and avoid twice execution of maven plugin.",
+    "committedDate": "2018-10-01T10:44:45Z"
+  },
+  {
+    "message": "Merge pull request #402 from Eoin-Mur/master\n\nFix OSGI Imports required by internal packages: Fixes(#401)",
+    "committedDate": "2018-10-01T08:39:49Z"
+  },
+  {
+    "message": "Update as per review comments in PR #402",
+    "committedDate": "2018-10-01T07:41:41Z"
+  },
+  {
+    "message": "Fix OSGI Imports required by internal packages\n\nReverted the change to the build introduced by f0202484806ff039cb7ffbd24cfd3da58480c009 to execute the bundle plugin on the unpacked shaded jar to ensure all classes including internal are examined for imports by the bnd plugin.",
+    "committedDate": "2018-09-27T12:42:10Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-09-20T01:52:48Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.3.0",
+    "committedDate": "2018-09-20T01:52:35Z"
+  },
+  {
+    "message": "Prepare for next release: 2.3.0",
+    "committedDate": "2018-09-20T01:48:28Z"
+  },
+  {
+    "message": "Merge pull request #399 from xiaodong-xie/add-jdk11-support\n\nIn order to use ModelMapper in jdk11 (build 11+28).",
+    "committedDate": "2018-09-19T09:10:00Z"
+  },
+  {
+    "message": "In order to use ModelMapper in jdk11 (build 11+28).\n\nBump up library dependencies for\n\n1) ByteBuddy from 1.8.3 to 1.8.22\n2) ASM       from 6.1.1 to 6.2.1\n3) Cglib     from 3.2.6 to 3.2.8\n\nAlso added usage of `ClassLoadingStrategy` for `load()` method when using\nByteBuddy, which is recommended by the author of the ByteBuddy library\nhere: https://github.com/raphw/byte-buddy/issues/447",
+    "committedDate": "2018-09-19T08:49:59Z"
+  },
+  {
+    "message": "Provides API on TypeMap to support base type mapping\n\nResolved: #182",
+    "committedDate": "2018-09-11T14:30:47Z"
+  },
+  {
+    "message": "Merge pull request #396 from silencerby/no_sortedmap_mapping\n\nfix for SortedMap mapping failure",
+    "committedDate": "2018-09-06T14:35:42Z"
+  },
+  { "message": "fixed the codestyle", "committedDate": "2018-09-06T14:20:21Z" },
+  {
+    "message": "SortedSet testcases added",
+    "committedDate": "2018-09-06T11:30:37Z"
+  },
+  { "message": "SortedMap fix", "committedDate": "2018-09-06T11:30:11Z" },
+  {
+    "message": "SortedMap testcase added (failing)",
+    "committedDate": "2018-09-06T11:29:39Z"
+  },
+  {
+    "message": "Reduces compiler warning",
+    "committedDate": "2018-09-06T01:54:09Z"
+  },
+  { "message": "Switch to sudo", "committedDate": "2018-08-30T08:52:02Z" },
+  {
+    "message": "Provides helper function to convert first item of collection\n\nResolved: #389",
+    "committedDate": "2018-08-30T08:52:02Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-08-17T12:10:31Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.2.0",
+    "committedDate": "2018-08-17T12:10:19Z"
+  },
+  { "message": "Updates CHANGES.md", "committedDate": "2018-08-17T11:58:43Z" },
+  {
+    "message": "Reimplement the iterable converters\n\nWe will always create a new iterable when converting from a iterable to\nanother iterable. And will copy the elements from original destination\n(if provided) to the new iterable. So ModelMapper can map it correctly\nbased on the provided destination and the source.\n\nResolved: #386",
+    "committedDate": "2018-08-17T06:10:48Z"
+  },
+  {
+    "message": "Creates destination after converter.convert\n\nResolved: #151",
+    "committedDate": "2018-08-16T10:01:01Z"
+  },
+  { "message": "Updates README.md", "committedDate": "2018-08-16T09:05:19Z" },
+  {
+    "message": "Builder supports different prefix\n\nResolved: #265",
+    "committedDate": "2018-08-16T08:06:57Z"
+  },
+  {
+    "message": "Support builder pattern\n\nResolved: #265",
+    "committedDate": "2018-08-16T07:52:08Z"
+  },
+  {
+    "message": "Provides collection converter helper method\n\nResolved: #248",
+    "committedDate": "2018-08-16T06:56:37Z"
+  },
+  {
+    "message": "Updates pom.xml to 2.2.0-SNAPSHOT",
+    "committedDate": "2018-08-16T02:55:31Z"
+  },
+  {
+    "message": "Try to resolve the dest generic type from parent\n\nResolved: #379",
+    "committedDate": "2018-08-16T02:40:10Z"
+  },
+  {
+    "message": "New add converter method with explicit types",
+    "committedDate": "2018-08-13T02:50:58Z"
+  },
+  { "message": "Updates README.md", "committedDate": "2018-08-12T03:10:31Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-08-12T02:46:50Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.1.1",
+    "committedDate": "2018-08-12T02:46:38Z"
+  },
+  {
+    "message": "Updates CHANGES.md for next release",
+    "committedDate": "2018-08-12T02:31:23Z"
+  },
+  {
+    "message": "Use source type first when mapping property (#373)\n\nResolved: #372",
+    "committedDate": "2018-08-02T08:20:57Z"
+  },
+  {
+    "message": "Fixed compiler error",
+    "committedDate": "2018-08-02T08:14:05Z"
+  },
+  {
+    "message": "Rename method: resolveDestinationGenericType",
+    "committedDate": "2018-08-02T06:40:31Z"
+  },
+  {
+    "message": "Adds README for protobuf",
+    "committedDate": "2018-08-01T09:21:40Z"
+  },
+  {
+    "message": "Renames to modelmapper-protobuf module and update javadocs",
+    "committedDate": "2018-08-01T09:19:13Z"
+  },
+  {
+    "message": "Fixes MapValueReader get wrong field type (#371)\n\nResolved: #370",
+    "committedDate": "2018-08-01T07:33:27Z"
+  },
+  {
+    "message": "Fixes OSGi issue (#369)\n\nResolved: #363",
+    "committedDate": "2018-07-31T01:10:28Z"
+  },
+  {
+    "message": "Resolve method return type correctly (#365)\n\nResolved: #364",
+    "committedDate": "2018-07-23T04:11:04Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-07-07T08:10:17Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.1.0",
+    "committedDate": "2018-07-07T08:10:02Z"
+  },
+  { "message": "Updates CHANGES.md", "committedDate": "2018-07-07T08:01:35Z" },
+  {
+    "message": "Only assigns destination if create by provider\n\nSorry for this massive commit, that this commit also trying to\nrefactor the code and cleanup the logic for the mapping engine.\n\nResolved: #360",
+    "committedDate": "2018-06-28T01:37:40Z"
+  },
+  {
+    "message": "Provides new API: emptyTypeMap",
+    "committedDate": "2018-06-22T02:25:03Z"
+  },
+  {
+    "message": "Reuse the child's TypeMap\n\nResolved: #354",
+    "committedDate": "2018-06-22T01:56:18Z"
+  },
+  {
+    "message": "Updates the README.md",
+    "committedDate": "2018-06-21T01:43:58Z"
+  },
+  {
+    "message": "Implement converters for PrimitiveValues",
+    "committedDate": "2018-06-21T01:42:17Z"
+  },
+  {
+    "message": "Implement Protocol Buffer Module",
+    "committedDate": "2018-06-21T01:42:17Z"
+  },
+  {
+    "message": "Protobuf implementation",
+    "committedDate": "2018-06-21T01:42:17Z"
+  },
+  { "message": "Fix compiler error", "committedDate": "2018-06-19T04:00:07Z" },
+  {
+    "message": "Implements value writer",
+    "committedDate": "2018-06-15T08:17:52Z"
+  },
+  {
+    "message": "Re-implement ValueReader",
+    "committedDate": "2018-06-15T08:17:52Z"
+  },
+  {
+    "message": "Cleanup: PropertyInfoSetResolver",
+    "committedDate": "2018-06-14T08:48:45Z"
+  },
+  {
+    "message": "Adds missing licenses",
+    "committedDate": "2018-06-13T05:39:24Z"
+  },
+  { "message": "Adds license", "committedDate": "2018-06-13T05:38:07Z" },
+  {
+    "message": "Refactor disambiguate method",
+    "committedDate": "2018-06-13T05:38:07Z"
+  },
+  {
+    "message": "Refactor matching strategy",
+    "committedDate": "2018-06-13T02:45:30Z"
+  },
+  {
+    "message": "Adds Tokens to replace String[]",
+    "committedDate": "2018-06-13T02:45:30Z"
+  },
+  {
+    "message": "Refactor: Extract interface PropertyNameInfo",
+    "committedDate": "2018-06-13T02:45:30Z"
+  },
+  {
+    "message": "Refactor matching related code",
+    "committedDate": "2018-06-13T02:45:30Z"
+  },
+  { "message": "Code cleanup", "committedDate": "2018-06-12T05:46:11Z" },
+  {
+    "message": "Lambda api support: map from constant\n\nResolved: #306",
+    "committedDate": "2018-06-12T02:56:29Z"
+  },
+  {
+    "message": "Lambda api support: mapFromSource",
+    "committedDate": "2018-06-12T02:27:47Z"
+  },
+  {
+    "message": "Adds Modules in README",
+    "committedDate": "2018-06-11T02:44:41Z"
+  },
+  {
+    "message": "Add unit test for deep copy",
+    "committedDate": "2018-06-07T09:59:58Z"
+  },
+  {
+    "message": "Provides configuration: deepCopyEnabled\n\nResolved: #307",
+    "committedDate": "2018-06-07T09:22:09Z"
+  },
+  {
+    "message": "Jackson module improvement",
+    "committedDate": "2018-06-07T08:44:06Z"
+  },
+  {
+    "message": "Adds utility class for mapping context\n\nTo prevent modelmapper modules from using TypeResolver directly,\nand to reduce the redundant code, so I create a utility class\nthat can be used for: creating collection destination and resolve\nthe destination element type with giver mapping context.",
+    "committedDate": "2018-06-07T08:44:06Z"
+  },
+  {
+    "message": "Implement perform implicit mapping on TypeMap\n\nResolved: #336",
+    "committedDate": "2018-05-31T02:37:13Z"
+  },
+  {
+    "message": "Implements jackson module and handle with ArrayNode\n\nResolved: #335",
+    "committedDate": "2018-05-26T08:34:24Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-05-21T18:25:32Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-2.0.0",
+    "committedDate": "2018-05-21T18:25:18Z"
+  },
+  { "message": "Update CHANGES.md", "committedDate": "2018-05-21T18:16:27Z" },
+  {
+    "message": "Fixes nested convert failure when using source mapping\n\nResolved: #331",
+    "committedDate": "2018-05-21T17:41:10Z"
+  },
+  {
+    "message": "Updates travis-ci for jdk9",
+    "committedDate": "2018-05-01T08:43:44Z"
+  },
+  {
+    "message": "Replaces cglib with bytebuddy",
+    "committedDate": "2018-05-01T08:43:44Z"
+  },
+  {
+    "message": "Adds module to support customize extensions\n\nResolved: #316",
+    "committedDate": "2018-04-09T08:58:56Z"
+  },
+  {
+    "message": "Updates to use java 1.6",
+    "committedDate": "2018-04-09T02:35:42Z"
+  },
+  {
+    "message": "Updates next release version to 2.0.0",
+    "committedDate": "2018-04-09T02:35:01Z"
+  },
+  { "message": "Updates CHANGES.md", "committedDate": "2018-04-03T09:35:15Z" },
+  {
+    "message": "XMLGregorianCalendar to Long converter",
+    "committedDate": "2018-03-30T02:08:01Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-03-18T14:30:19Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.1.3",
+    "committedDate": "2018-03-18T14:30:05Z"
+  },
+  {
+    "message": "Updates asm, cglib and objenesis to their latest versions",
+    "committedDate": "2018-02-21T00:53:29Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2018-01-07T12:56:45Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.1.2",
+    "committedDate": "2018-01-07T12:56:32Z"
+  },
+  {
+    "message": "Adds support for OSGi Class Loader Bridging",
+    "committedDate": "2018-01-04T00:49:49Z"
+  },
+  {
+    "message": "Fixes the OSGi headers generation.",
+    "committedDate": "2018-01-04T00:49:49Z"
+  },
+  {
+    "message": "Also checked primitive wrapper for TypeMap\n\nResolved: #291",
+    "committedDate": "2017-12-13T08:06:58Z"
+  },
+  {
+    "message": "Should not traversal destination property if already have a TypeMap\n\nResolved #283",
+    "committedDate": "2017-12-13T07:27:34Z"
+  },
+  {
+    "message": "Adds an unittest for merge source demo",
+    "committedDate": "2017-12-12T09:55:20Z"
+  },
+  {
+    "message": "Throws ConfigurationException instead of NullPointerException\n\nResolved: #287",
+    "committedDate": "2017-12-12T07:23:59Z"
+  },
+  {
+    "message": "Updates CHANGES.md for v1.1.1",
+    "committedDate": "2017-10-15T15:19:53Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2017-10-15T14:59:43Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.1.1",
+    "committedDate": "2017-10-15T14:59:31Z"
+  },
+  {
+    "message": "Returns null instead of throw error for ProxyClass\n\nWe try to proxy all properties when user build an explicit map,\nbut we cannot proxy some class with cglib like EnumSet. But for\nsome case, we don't need to proxy all properties, so we try to\nreturn null instead of throw error instantly. And we throw errors\nwhen we got NullPointerException.\n\nResolved: #260",
+    "committedDate": "2017-10-09T11:20:24Z"
+  },
+  {
+    "message": "The propertyCondition will not be used by skip\n\nResolved: #267",
+    "committedDate": "2017-10-09T11:19:40Z"
+  },
+  {
+    "message": "Update travis oracle jdk to 8",
+    "committedDate": "2017-10-09T10:46:46Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2017-07-08T06:56:03Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.1.0",
+    "committedDate": "2017-07-08T06:55:51Z"
+  },
+  {
+    "message": "Don't skip the deployment of examples\n\nCurrently, I tried several times that I still cannot deploy successfully\nwithout example javadoc jar. So I will just add it back, and will find\nout how we should handle with example deployment.",
+    "committedDate": "2017-07-08T06:51:19Z"
+  },
+  {
+    "message": "Update CHANGES.md for v1.1.0 release",
+    "committedDate": "2017-07-08T03:52:54Z"
+  },
+  {
+    "message": "Introduce typetools for lambda type resolving",
+    "committedDate": "2017-07-08T03:42:11Z"
+  },
+  {
+    "message": "Add a configuration option: skipNull\n\nSometimes we don't want to map a null value to be set into\ndestination property, so we provide an option to configure\nwhether we should skip mapping null value to destination\nproperty or not.\n\nResolved #217",
+    "committedDate": "2017-07-08T01:22:45Z"
+  },
+  {
+    "message": "Returns null when read inexist value in ValueReader\n\nResolved: #194",
+    "committedDate": "2017-07-01T04:35:04Z"
+  },
+  {
+    "message": "Fixed NPE when getting destination property\n\nResolved: #249",
+    "committedDate": "2017-06-26T15:18:43Z"
+  },
+  {
+    "message": "Merge pull request #247 from ehmkah/feature/182\n\nAdd example for TypeMap inheritance",
+    "committedDate": "2017-06-26T13:39:45Z"
+  },
+  {
+    "message": "ehmkah: fixed pom.xml",
+    "committedDate": "2017-06-21T19:50:48Z"
+  },
+  {
+    "message": "ehmkah: intent to 2 spaces",
+    "committedDate": "2017-06-21T19:47:45Z"
+  },
+  {
+    "message": "ehmkah: repaired git rebase mess :-(",
+    "committedDate": "2017-06-21T19:42:14Z"
+  },
+  {
+    "message": "Merge branch 'master' into feature/182",
+    "committedDate": "2017-06-21T19:35:57Z"
+  },
+  {
+    "message": "ehmkah: example test for https://github.com/modelmapper/modelmapper/issues/182",
+    "committedDate": "2017-06-21T19:29:58Z"
+  },
+  {
+    "message": "ehmkah: examples become part of the modelmapper project (https://github.com/modelmapper/modelmapper/issues/245)",
+    "committedDate": "2017-06-21T19:29:00Z"
+  },
+  {
+    "message": "Merge pull request #246 from ehmkah/feature/245\n\nehmkah: examples become part of the modelmapper project",
+    "committedDate": "2017-06-21T11:04:44Z"
+  },
+  {
+    "message": "ehmkah: review findings - skip examples-module from beeing deployed on maven central",
+    "committedDate": "2017-06-19T17:36:06Z"
+  },
+  {
+    "message": "MIK https://github.com/modelmapper/modelmapper/issues/182 : updated to comments, now it is working",
+    "committedDate": "2017-06-19T08:11:20Z"
+  },
+  {
+    "message": "MIK https://github.com/modelmapper/modelmapper/issues/182 : updated to comments, still not working",
+    "committedDate": "2017-06-19T08:05:05Z"
+  },
+  {
+    "message": "MIK https://github.com/modelmapper/modelmapper/issues/182 : updated to comments, still not working",
+    "committedDate": "2017-06-19T08:00:34Z"
+  },
+  {
+    "message": "ehmkah: simplified example",
+    "committedDate": "2017-06-18T19:21:14Z"
+  },
+  {
+    "message": "ehmkah: example test for https://github.com/modelmapper/modelmapper/issues/182",
+    "committedDate": "2017-06-18T19:17:05Z"
+  },
+  {
+    "message": "ehmkah: examples become part of the modelmapper project (https://github.com/modelmapper/modelmapper/issues/245)",
+    "committedDate": "2017-06-18T17:31:00Z"
+  },
+  {
+    "message": "Update CHANGES.md for v1.0.0",
+    "committedDate": "2017-06-03T00:51:40Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2017-06-03T00:42:21Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.0.0",
+    "committedDate": "2017-06-03T00:42:08Z"
+  },
+  {
+    "message": "Fix field matching bug\n\nWhen source property tokens contains similar destination property token,\nthe matcher seams will skip matching process even there is a full match\ntoken exist. For instance, with given destination property token: go, it\nwill failed to find matched token with given source tokens: goo, go.\n\nClosed: #234",
+    "committedDate": "2017-05-17T09:20:26Z"
+  },
+  {
+    "message": "Keep provided destination property to sub type map\n\nProvided destination property was not passed to sub TypeMap.\nCheck destination before invoke TypeMap mappings to make sure\nthe provided destination will not disappear.\n\nClosed: #171",
+    "committedDate": "2017-05-17T09:00:37Z"
+  },
+  {
+    "message": "Introduce ModelMapper.typeMap()\n\nProvides a shortcut for create or get a TypeMap in a ModelMapper\n\nClosed: #214",
+    "committedDate": "2017-05-15T03:28:36Z"
+  },
+  {
+    "message": "Revert \"Remove unneeded generic types\"\n\nThis reverts commit e14c0c071048adb16851f898709c5e56fe0a8137.",
+    "committedDate": "2017-05-15T03:25:00Z"
+  },
+  {
+    "message": "Remove unneeded generic types\n\nWe don't need to explicit define the setter's value type when defining\nexpression mapping, so we removed it!",
+    "committedDate": "2017-05-15T03:20:05Z"
+  },
+  {
+    "message": "Improved building TypeMap with ValueReader\n\nCurrently, TypeMap will always be cached into TypeMapStore,\neven it's had some properties still not be mapped properly.\nAnd it would cause problem when handing source type that is\ndynamic type and need a ValueReader to read its value, like\nJson, Map, DB ResultSet or Record.\n\nSo I had some improvement for these not handling well stuff.\n1. ValueReader with new method getAccessor\nSo when encounter flat dynamic type, like jooq Record, the\naccessors get from ValueReader will not depends on the value,\nbut depends on the metadata.\n\n2. Only cache when TypeMap is completely mapping\nWhen handling some hierarchical dynamic type, we cannot prevent\nthat the value to not be null. We must not cache for that\nsituation, so that we can create a new TypeMap next time and next\ntime, until we got a completely mapped TypeMap and we will cache it.\n\n3. Re-implement how TypeMap determine un-mapped properties\nCurrent implementation of unmapped properties is only check the\ntop-layer fields. But it's not true about a completely mapped\nTypeMap.\n\nCloses: #168",
+    "committedDate": "2017-05-09T07:02:42Z"
+  },
+  {
+    "message": "Relocate method: classFor(asmType) to Types\n\nBecause of single responsibility and code reusability, moved\nmethod classFor(asmType) to an internal util class Types",
+    "committedDate": "2017-04-28T05:07:36Z"
+  },
+  {
+    "message": "Resolve ASM type correctly\n\nFixed ASM type resolver to resolve non-primitive array type correctly.\n\nResolved #220",
+    "committedDate": "2017-04-28T02:20:41Z"
+  },
+  {
+    "message": "Implement TypeMap inheritance\n\nCurrently, when ModelMapper decide which TypeMap to use,\nit was strongly depends on the actually type of source and\ndestination.\nBut sometimes we want to define TypeMap with interface\nor parent class to map there model, or configure a TypeMap to inherit\na base TypeMap.\nSo we introduce TypeMap.include and TypeMap.includeBase so that we can\nhave TypeMap inheritance.\n\nResolved: #13 #130 #132 #170 #202",
+    "committedDate": "2017-04-27T02:17:43Z"
+  },
+  {
+    "message": "Exlucde ant dependency to reduce jar size\n\nResolved #219",
+    "committedDate": "2017-04-26T02:28:38Z"
+  },
+  {
+    "message": "Introduces lambda-friendly api\n\nWe had new api over TypeMap and ModelMapper for lambda friendly api\n\nIn TypeMap, we had TypeMap.addMapping and you can do something like\ntypeMap.addMapping(Src::getA, Dest::setB),\n\nor more complicated with\ntypeMap.addMappings(mapping -> mapping.with(provider).map(...))\n       .addMappings(mapping -> mapping.using(converter).map(...))\n       .addMappings(mapping -> mapping.when(condition).map(...))\n       .addMappings(mapping -> mapping.skip(Dest::setField))\n\nor\ntypeMap.addMappings(mapping -> {\n    mapping.with(provider).map(...);\n    mapping.using(converter).map(...);\n    mapping.when(condition).map(...);\n    mapping.map(...);\n    mapping.skip(...);\n});",
+    "committedDate": "2017-04-19T09:49:40Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2017-04-01T03:03:43Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.8",
+    "committedDate": "2017-04-01T03:03:33Z"
+  },
+  {
+    "message": "Add missing javadoc plugin config for release",
+    "committedDate": "2017-04-01T03:00:22Z"
+  },
+  {
+    "message": "Update pom.xml for release",
+    "committedDate": "2017-04-01T01:55:18Z"
+  },
+  {
+    "message": "Updated changelog for release",
+    "committedDate": "2017-04-01T01:11:40Z"
+  },
+  {
+    "message": "Update parent pom to add support for maven auto-releasing.",
+    "committedDate": "2017-03-30T15:55:27Z"
+  },
+  {
+    "message": "Add jacoco plugin for coverage",
+    "committedDate": "2017-03-28T03:45:03Z"
+  },
+  {
+    "message": "Improved how ConverterStore select a converter\n\nCurrently, ConverterStore will always return its first\nmatch converter, even there is another full match converter\nafter it. I think it will be better ConverterStore should\nselect a best match converter first, and it will try\nselect a partial match converter if there is no full match\nconverter.\n\nResolves: #200",
+    "committedDate": "2017-03-28T03:08:02Z"
+  },
+  {
+    "message": "Merge pull request #211 from chhsiao90/gh204\n\nResolved #204: getting wrong type in PropertyInfoRegistry cache",
+    "committedDate": "2017-03-27T06:24:12Z"
+  },
+  {
+    "message": "Add unit test for github #204",
+    "committedDate": "2017-03-27T06:19:00Z"
+  },
+  {
+    "message": "Improved mutator pattern\n\nCurrently, when there is a explicit mapping config as\nmap().setValue(source.getValue()), if will failed mapping\nif setValue return itself. It's not what we expected.\nMutator accespt return type is void or itself.",
+    "committedDate": "2017-03-27T06:15:30Z"
+  },
+  {
+    "message": "Make accessor, field, mutator into different cache\n\nCurrently, we found that when getter/setter had same\nmethod name, then they will have same hash code when\nwe cache them. Then we had the risk for getting a\nmutator when we try getting an accessor.\n\nSo I separate mutator, accessor, and field into three\ndifferent cache\n\nThis resolved github issue #204",
+    "committedDate": "2017-03-27T06:05:03Z"
+  },
+  {
+    "message": "Fix not checking typeArguments when adding converter: closes #205",
+    "committedDate": "2017-03-23T02:45:22Z"
+  },
+  {
+    "message": "Merge pull request #207 from chhsiao90/gh197\n\nFix bug modelmapper skip path problem",
+    "committedDate": "2017-03-23T02:22:25Z"
+  },
+  {
+    "message": "Fix bug modelmapper skip path problem\n\nWhen used PropertyMap with\nwhen(condition).skip().setA(source.getA()),\nThe field a will be skipped even condition not\nmatch. That's not an expected behavior of\nmodelmapper.\n\nGithub issue: https://github.com/jhalterman/modelmapper/issues/197",
+    "committedDate": "2017-03-22T03:24:24Z"
+  },
+  {
+    "message": "Simplify javadoc generation scripts",
+    "committedDate": "2017-03-22T00:00:15Z"
+  },
+  {
+    "message": "Remove project status from readme\nUpdate links to new github org",
+    "committedDate": "2017-03-21T17:05:43Z"
+  },
+  { "message": "Remove unused field", "committedDate": "2016-10-16T00:53:02Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2016-10-08T17:08:09Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.7",
+    "committedDate": "2016-10-08T17:08:05Z"
+  },
+  {
+    "message": "Updated changelog for release",
+    "committedDate": "2016-10-08T17:07:11Z"
+  },
+  {
+    "message": "Added some badges to the readme",
+    "committedDate": "2016-10-08T17:05:07Z"
+  },
+  {
+    "message": "Merge pull request #190 from chhsiao90/explicit-map-#153\n\nResolved #153: update the logic for determine when last destination mutator hit",
+    "committedDate": "2016-10-08T16:57:01Z"
+  },
+  {
+    "message": "Resolved #153: update the logic for determine when last mutator hit, so that modelmapper could accept more generic type on destination type\n1. Removed isAccessor but introduce isMutator with more strict check by\nregex to determine that method is accessor or mutator\n2. Determine last mutator",
+    "committedDate": "2016-10-02T06:21:09Z"
+  },
+  {
+    "message": "Merge pull request #185 from shark404/master\n\nDeproxy dynamic proxies #184",
+    "committedDate": "2016-07-25T15:29:20Z"
+  },
+  {
+    "message": "Upgrade to Cglib 3.2.4, ASM 5.1",
+    "committedDate": "2016-07-25T15:26:55Z"
+  },
+  {
+    "message": "Deproxy dynamic proxies",
+    "committedDate": "2016-06-08T08:06:15Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2016-05-18T18:35:44Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.6",
+    "committedDate": "2016-05-18T18:35:39Z"
+  },
+  {
+    "message": "Disable javadoc linting",
+    "committedDate": "2016-05-18T18:31:25Z"
+  },
+  { "message": "Update changelog", "committedDate": "2016-05-18T18:28:03Z" },
+  {
+    "message": "Merge pull request #177 from lldata/master\n\nGH176 Reuse of converters",
+    "committedDate": "2016-04-20T02:39:09Z"
+  },
+  {
+    "message": "Update testng dependency.",
+    "committedDate": "2016-04-20T02:37:11Z"
+  },
+  {
+    "message": "GH176 Reuse of converters\n\nhttps://github.com/jhalterman/modelmapper/issues/176",
+    "committedDate": "2016-04-19T14:14:08Z"
+  },
+  {
+    "message": "Upgrade to latest travis infra",
+    "committedDate": "2015-09-03T01:12:07Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2015-09-03T00:04:45Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.5",
+    "committedDate": "2015-09-03T00:04:41Z"
+  },
+  {
+    "message": "Merge pull request #156 from sventorben/sventorben-patch-155\n\nFix NullPointerException in Erros.Converter.appliesTo",
+    "committedDate": "2015-08-03T19:59:36Z"
+  },
+  {
+    "message": "Fix NullPointerException in Erros.Converter.appliesTo",
+    "committedDate": "2015-08-03T12:05:17Z"
+  },
+  {
+    "message": "Merge branch 'master' of github.com:jhalterman/modelmapper",
+    "committedDate": "2015-06-25T19:45:34Z"
+  },
+  {
+    "message": "Add note on project status to readme",
+    "committedDate": "2015-06-25T19:45:19Z"
+  },
+  {
+    "message": "Merge pull request #145 from ChristophGr/fix_properties_in_interfaces\n\nfix mapping of properties defined in super-interfaces",
+    "committedDate": "2015-04-23T00:21:51Z"
+  },
+  {
+    "message": "fix mapping of properties defined in super-interfaces\n\nIssue #144",
+    "committedDate": "2015-03-24T10:24:18Z"
+  },
+  {
+    "message": "Changelog updates for 0.7.4 release",
+    "committedDate": "2015-03-19T16:59:43Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2015-03-19T16:46:58Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.4",
+    "committedDate": "2015-03-19T16:46:54Z"
+  },
+  {
+    "message": "Merge pull request #142 from ChristophGr/fix_cglib_shadowing\n\nadd reflect-package to cglib-shadow",
+    "committedDate": "2015-03-19T16:35:30Z"
+  },
+  {
+    "message": "Merge pull request #143 from da-z/master\n\nPrevent StringIndexOutOfBoundsException",
+    "committedDate": "2015-03-19T16:31:06Z"
+  },
+  { "message": "Clean", "committedDate": "2015-03-17T18:06:22Z" },
+  { "message": "Add test case", "committedDate": "2015-03-17T18:04:28Z" },
+  {
+    "message": "Prevent StringIndexOutOfBoundsException",
+    "committedDate": "2015-03-17T16:51:38Z"
+  },
+  {
+    "message": "add reflect-package to cglib-shadow",
+    "committedDate": "2015-03-16T20:27:55Z"
+  },
+  {
+    "message": "Merge pull request #138 from jdbernard/master\n\nAdd support for mapping to SortedSets destinations.",
+    "committedDate": "2015-03-05T18:24:38Z"
+  },
+  {
+    "message": "Add support for mapping to SortedSets destinations.\n\nPreviously the CollectionConverter was only discriminating between Lists and\nSets, instanciating an ArrayList if the destination type was a List and a\nHashSet if the destination type was a Set. This failed when the destination\ntype was a SortedSet (HashSet is not a SortedSet).\n\nRather than change the HashSet to a TereSet for all Sets, a separate check has\nbeen added for SortedSets so that the more performant HashMap is still used\ngenerally and a TreeSet is used only when we know we need a SortedSet.\n\nTwo test cases where added. One is to test that the SortedSet mapping works.\nThe other is to test that HashSets are still used when a SortedSet is not\nrequested. This second test may not be necessary if we don't care that much\nabout the implementation backing the mapped property.",
+    "committedDate": "2015-03-04T22:16:02Z"
+  },
+  {
+    "message": "Added test to demonstrate skipping of lazily fetched JPA properties. Issie #97.",
+    "committedDate": "2014-11-19T06:00:59Z"
+  },
+  {
+    "message": "Add support for converting empty strings to primitives and primitive wrappers. Closes #129.",
+    "committedDate": "2014-11-18T20:27:51Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2014-11-13T18:48:49Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.3",
+    "committedDate": "2014-11-13T18:48:45Z"
+  },
+  {
+    "message": "Update changelog for 0.7.3",
+    "committedDate": "2014-11-13T18:45:58Z"
+  },
+  {
+    "message": "Fix the use of Providers with circular/hierarchical references. Closes #119.",
+    "committedDate": "2014-11-12T00:48:14Z"
+  },
+  {
+    "message": "Ignore synthetic and bridge methods when resolving methods for explicit mappings. Fixes issue #126.",
+    "committedDate": "2014-11-11T22:27:49Z"
+  },
+  { "message": "Fix for issue #114.", "committedDate": "2014-11-05T18:40:26Z" },
+  {
+    "message": "Merge pull request #120 from Nthalk/master\n\nAdded support for fragile proxies",
+    "committedDate": "2014-09-16T17:40:12Z"
+  },
+  {
+    "message": "Added test for support for hashCode fragile proxies",
+    "committedDate": "2014-09-14T09:51:04Z"
+  },
+  {
+    "message": "Added support for Proxies that require (and break due to a lack of) internal state when generating a hashCode",
+    "committedDate": "2014-09-14T09:26:14Z"
+  },
+  {
+    "message": "ExplicitMappingVisitor should be able to reflect methods with array parameters. Fixes issue #115.",
+    "committedDate": "2014-07-11T19:52:35Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2014-06-26T00:00:06Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.2",
+    "committedDate": "2014-06-26T00:00:00Z"
+  },
+  {
+    "message": "Updated changelog for 0.7.2",
+    "committedDate": "2014-06-25T23:58:16Z"
+  },
+  {
+    "message": "Use specific classloader for loading PropertyMap classes. Issue #114.",
+    "committedDate": "2014-06-19T18:02:07Z"
+  },
+  {
+    "message": "Proxies should ignore overriden equals methods. Issue #113",
+    "committedDate": "2014-06-19T17:34:19Z"
+  },
+  { "message": "Removed GH111 test.", "committedDate": "2014-06-11T17:46:53Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2014-06-11T17:40:37Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.1",
+    "committedDate": "2014-06-11T17:40:34Z"
+  },
+  {
+    "message": "Updated changelog for 0.7.1",
+    "committedDate": "2014-06-11T17:38:18Z"
+  },
+  {
+    "message": "Ignore synthetic members and bridge methods. Fixes issue #111.",
+    "committedDate": "2014-06-11T17:26:22Z"
+  },
+  {
+    "message": "Updated PropertyMap javadoc to add a few more field mapping examples",
+    "committedDate": "2014-06-09T04:08:39Z"
+  },
+  {
+    "message": "Added test for mapping constant to destination field. Fixes #112",
+    "committedDate": "2014-06-09T03:47:27Z"
+  },
+  {
+    "message": "Added support for mapping destination fields using a converter",
+    "committedDate": "2014-06-09T03:41:05Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2014-06-08T17:59:51Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.7.0",
+    "committedDate": "2014-06-08T17:59:47Z"
+  },
+  {
+    "message": "Added field references to examples",
+    "committedDate": "2014-06-07T00:30:50Z"
+  },
+  {
+    "message": "Updated changes for 0.7.0 release",
+    "committedDate": "2014-06-07T00:05:22Z"
+  },
+  { "message": "Fixed JavaDoc typos", "committedDate": "2014-06-06T23:50:40Z" },
+  {
+    "message": "Added support for skipping fields.",
+    "committedDate": "2014-06-06T23:10:52Z"
+  },
+  {
+    "message": "Added check to see if explicitly mapped properties are convertable. Fixes issue #47.",
+    "committedDate": "2014-06-06T21:42:19Z"
+  },
+  {
+    "message": "Added Objenesis for proxy instantiation. Fixes issue #79.",
+    "committedDate": "2014-06-06T20:35:58Z"
+  },
+  {
+    "message": "Added Cglib's ClassTransformer to shaded jar",
+    "committedDate": "2014-06-06T20:35:58Z"
+  },
+  {
+    "message": "Added support for mapping field references.",
+    "committedDate": "2014-06-06T20:35:58Z"
+  },
+  {
+    "message": "Fix TestTest compatibility with Java8 compiler",
+    "committedDate": "2014-06-06T20:35:57Z"
+  },
+  { "message": "Upgrade to ASM 5", "committedDate": "2014-06-06T20:35:57Z" },
+  {
+    "message": "Fixed comparison test",
+    "committedDate": "2014-06-05T20:29:21Z"
+  },
+  {
+    "message": "Added support for mapping interfaces. Issue #110.",
+    "committedDate": "2014-06-02T17:57:24Z"
+  },
+  {
+    "message": "Added support for handling property mapping primitive wrappers to primitives. Fixes issue #109.",
+    "committedDate": "2014-05-28T23:56:15Z"
+  },
+  {
+    "message": "Merge pull request #106 from kuujo/fix-null-check\n\nFix missing argument to null check.",
+    "committedDate": "2014-05-21T20:28:32Z"
+  },
+  {
+    "message": "Fix missing argument to null check.",
+    "committedDate": "2014-05-21T19:47:58Z"
+  },
+  {
+    "message": "Fixed issue #104 - mapping to existing instances of the same type",
+    "committedDate": "2014-05-08T00:40:16Z"
+  },
+  {
+    "message": "Fixed issue #101. Stop tracking boxed primitives for the purposes of detecting circular references.",
+    "committedDate": "2014-04-20T19:06:18Z"
+  },
+  {
+    "message": "Added toString implementation to AbstractConverter and AbstractProvider",
+    "committedDate": "2014-04-20T18:51:56Z"
+  },
+  { "message": "Updated changelog", "committedDate": "2014-04-15T18:32:13Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2014-04-15T18:27:10Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.6.5",
+    "committedDate": "2014-04-15T18:27:06Z"
+  },
+  { "message": "Fixed issue #100.", "committedDate": "2014-04-15T18:09:46Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2014-03-31T21:26:25Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.6.4",
+    "committedDate": "2014-03-31T21:26:21Z"
+  },
+  {
+    "message": "Update changelog for release",
+    "committedDate": "2014-03-31T21:25:10Z"
+  },
+  {
+    "message": "Fixed issue #95. Converters now will receive null source values.",
+    "committedDate": "2014-03-29T21:00:07Z"
+  },
+  {
+    "message": "Fixed shaded/cached paths to use absolute paths for the context hierarchy, including inherited contexts.",
+    "committedDate": "2014-03-29T20:16:35Z"
+  },
+  {
+    "message": "Merge pull request #96 from s1mm0t/master\n\nInherited shaded paths preventing customer converters from running",
+    "committedDate": "2014-03-29T16:27:37Z"
+  },
+  {
+    "message": "When creating a new property context, the shaded paths were being inherited. This meant that if you mapped two source classes to the same destination any customer converters defined in property maps for the second (or subsequent) mappings, would not be run.",
+    "committedDate": "2014-03-28T12:00:28Z"
+  },
+  {
+    "message": "Changelog formatting",
+    "committedDate": "2014-01-24T21:05:05Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2014-01-24T20:53:11Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.6.3",
+    "committedDate": "2014-01-24T20:53:06Z"
+  },
+  { "message": "Updated changelog", "committedDate": "2014-01-24T20:52:10Z" },
+  {
+    "message": "Merge pull request #91 from ChristophGr/master\n\nadd shaded cglib to Export-Package for better OSGi-support",
+    "committedDate": "2014-01-22T21:26:15Z"
+  },
+  {
+    "message": "add shaded cglib to Export-Package for better OSGi-support",
+    "committedDate": "2014-01-22T20:50:49Z"
+  },
+  {
+    "message": "Update travis to use openjdk7 since the type resolution bug in 6 is getting old.",
+    "committedDate": "2014-01-18T00:06:40Z"
+  },
+  {
+    "message": "Added Property extraction example",
+    "committedDate": "2014-01-17T17:25:22Z"
+  },
+  {
+    "message": "Add support for fluent setters on destinations. Fixes #85.",
+    "committedDate": "2014-01-09T05:48:18Z"
+  },
+  { "message": "Fixed issue #83.", "committedDate": "2014-01-07T22:32:37Z" },
+  {
+    "message": "Merge branch 'master' of https://github.com/sskrla/modelmapper into sskrla-master",
+    "committedDate": "2014-01-07T22:19:26Z"
+  },
+  { "message": "Fixed issue #82.", "committedDate": "2014-01-07T22:15:03Z" },
+  {
+    "message": "Resolve owner type in type variable lookups\n\nAttempting to resolve #81. No tests committed currently as the test case\ndescribed in the bug creates a number of new files that cannot be\nembedded in <code>TypeResolverTest</code> (as is the style precedence).",
+    "committedDate": "2013-12-31T00:39:06Z"
+  },
+  {
+    "message": "Adding MappingContext.create(CS source, CD destination)\n\nAttempting to resolve #83",
+    "committedDate": "2013-12-31T00:28:41Z"
+  },
+  { "message": "Fixes #80", "committedDate": "2013-12-20T18:50:16Z" },
+  {
+    "message": "Added another simple circular dependency test",
+    "committedDate": "2013-11-13T16:51:46Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2013-11-05T19:25:56Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.6.2",
+    "committedDate": "2013-11-05T19:25:53Z"
+  },
+  {
+    "message": "Updated changes for release",
+    "committedDate": "2013-11-05T19:24:06Z"
+  },
+  { "message": "Fixed issue #74", "committedDate": "2013-10-18T17:08:16Z" },
+  {
+    "message": "Added javadoc note on providers returning nulls",
+    "committedDate": "2013-10-18T15:44:07Z"
+  },
+  {
+    "message": "Added some comments to an example about alternate mapping",
+    "committedDate": "2013-10-17T17:17:14Z"
+  },
+  {
+    "message": "Field relocation example",
+    "committedDate": "2013-10-17T15:50:36Z"
+  },
+  {
+    "message": "Added javadoc plugin config",
+    "committedDate": "2013-10-14T19:13:04Z"
+  },
+  {
+    "message": "Added null checked for resolved source property values\nAdded support for case insentitive jOOQ field matching",
+    "committedDate": "2013-10-06T20:27:29Z"
+  },
+  {
+    "message": "Complex conversion example",
+    "committedDate": "2013-10-05T04:06:18Z"
+  },
+  {
+    "message": "Move Groovy proxy method filtering to CallbackFilter",
+    "committedDate": "2013-08-25T18:28:13Z"
+  },
+  {
+    "message": "Added support for explicit mapping of groovy properties - Fixes issue #66",
+    "committedDate": "2013-08-24T23:26:23Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2013-08-07T04:41:41Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.6.1",
+    "committedDate": "2013-08-07T04:41:37Z"
+  },
+  {
+    "message": "Added better default argument construction, supporting collections, maps and arrays.",
+    "committedDate": "2013-08-07T00:57:44Z"
+  },
+  {
+    "message": "Fixed RecordValueReader support for explicit mapping (assumes field names are capitalized).",
+    "committedDate": "2013-08-07T00:57:24Z"
+  },
+  {
+    "message": "Added MultiMapValueReaderTest\nRenamed MapValueAccessTest -> MapValueReaderTest",
+    "committedDate": "2013-08-05T18:34:41Z"
+  },
+  {
+    "message": "Javadoc push script update",
+    "committedDate": "2013-08-03T23:02:01Z"
+  },
+  { "message": "JavaDoc fix", "committedDate": "2013-08-03T22:44:40Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2013-08-03T22:16:43Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.6.0",
+    "committedDate": "2013-08-03T22:16:39Z"
+  },
+  { "message": "Merge branch 'gh43'", "committedDate": "2013-08-03T21:29:14Z" },
+  {
+    "message": "Updated changelog for 0.6.0 release",
+    "committedDate": "2013-08-02T21:15:56Z"
+  },
+  { "message": "Merge branch 'gh43'", "committedDate": "2013-08-02T04:31:58Z" },
+  {
+    "message": "Added support for explicit mapping of source properties",
+    "committedDate": "2013-08-02T04:16:46Z"
+  },
+  {
+    "message": "Merge branch 'gh43'\n\nConflicts:\n\textensions/dagger/pom.xml",
+    "committedDate": "2013-07-30T16:58:27Z"
+  },
+  {
+    "message": "Added NameTransformer to properties read from a ValueReader",
+    "committedDate": "2013-07-30T16:48:05Z"
+  },
+  {
+    "message": "Removed dagger compiler plugin",
+    "committedDate": "2013-07-30T16:48:05Z"
+  },
+  {
+    "message": "Improved MapValueAccessTest to test multiple TypeMaps for the same source/dest types",
+    "committedDate": "2013-07-30T16:48:04Z"
+  },
+  {
+    "message": "Enhanced ValueReader tests",
+    "committedDate": "2013-07-30T16:48:04Z"
+  },
+  {
+    "message": "Added ModelMapper APIs for creating type maps from generic data structures",
+    "committedDate": "2013-07-30T16:48:04Z"
+  },
+  {
+    "message": "Added check for mappable types prior to implicit matching",
+    "committedDate": "2013-07-30T16:48:04Z"
+  },
+  {
+    "message": "Added Underscore NameTokenizer",
+    "committedDate": "2013-07-30T16:48:04Z"
+  },
+  {
+    "message": "Improved Json value reader tests",
+    "committedDate": "2013-07-30T16:48:04Z"
+  },
+  {
+    "message": "Added Dagger integration",
+    "committedDate": "2013-07-30T04:43:17Z"
+  },
+  {
+    "message": "MapConverter should also handle null keys",
+    "committedDate": "2013-07-30T04:43:17Z"
+  },
+  {
+    "message": "Fixed issue #60 - Should allow null values when mapping Iterables or Maps",
+    "committedDate": "2013-07-30T04:43:17Z"
+  },
+  {
+    "message": "Test readability improvement",
+    "committedDate": "2013-07-30T04:43:17Z"
+  },
+  {
+    "message": "Added generation file",
+    "committedDate": "2013-07-30T04:43:17Z"
+  },
+  { "message": "Updated jOOQ", "committedDate": "2013-07-30T04:43:17Z" },
+  {
+    "message": "Added support for mapping by name",
+    "committedDate": "2013-07-30T04:43:17Z"
+  },
+  {
+    "message": "Added toString to value reader impls",
+    "committedDate": "2013-07-30T04:43:17Z"
+  },
+  {
+    "message": "Added Dagger integration",
+    "committedDate": "2013-07-26T23:22:52Z"
+  },
+  {
+    "message": "MapConverter should also handle null keys",
+    "committedDate": "2013-07-26T00:07:09Z"
+  },
+  {
+    "message": "Fixed issue #60 - Should allow null values when mapping Iterables or Maps",
+    "committedDate": "2013-07-26T00:01:36Z"
+  },
+  { "message": "Merge branch 'gh43'", "committedDate": "2013-07-24T17:39:13Z" },
+  {
+    "message": "Added toString to value reader impls",
+    "committedDate": "2013-07-24T17:39:04Z"
+  },
+  {
+    "message": "readme simplification",
+    "committedDate": "2013-07-19T18:30:18Z"
+  },
+  { "message": "Changelog updates", "committedDate": "2013-07-19T18:25:03Z" },
+  { "message": "Fixes issue #49", "committedDate": "2013-07-19T18:18:03Z" },
+  {
+    "message": "Merge branch 'master' into gh43\n\nConflicts:\n\tcore/src/main/java/org/modelmapper/config/Configuration.java\n\tcore/src/main/java/org/modelmapper/internal/ExplicitMappingProgress.java\n\tcore/src/main/java/org/modelmapper/internal/InheritingConfiguration.java\n\tcore/src/main/java/org/modelmapper/internal/PropertyMappingImpl.java\n\tcore/src/main/java/org/modelmapper/internal/ProxyFactory.java\n\tcore/src/test/java/org/modelmapper/internal/ProxyFactoryTest.java",
+    "committedDate": "2013-07-19T17:32:02Z"
+  },
+  {
+    "message": "WIP\nMerged with master\nRenamed classes around implicit and explicit property building\nAdded additional extensions to extensions pom\nExtensions should depend on current project version\nRe-worked named typemaps\nRemoved unused test",
+    "committedDate": "2013-07-19T03:55:04Z"
+  },
+  {
+    "message": "Merge pull request #56 from ncjones/strict-conversion\n\nOnly use partially matched mappings when fullTypeMatchingRequired is not true.",
+    "committedDate": "2013-07-16T22:32:47Z"
+  },
+  {
+    "message": "Check \"fullTypeMathchingRequired\" config when converter is partially matched.",
+    "committedDate": "2013-07-16T22:12:48Z"
+  },
+  {
+    "message": "Add tests for fullTypeMatching configuration.",
+    "committedDate": "2013-07-16T21:58:54Z"
+  },
+  {
+    "message": "Only build master with Travis",
+    "committedDate": "2013-07-16T18:01:06Z"
+  },
+  {
+    "message": "Introduce configuration for disabling conditional conversion of partially matched types.",
+    "committedDate": "2013-07-16T12:06:38Z"
+  },
+  {
+    "message": "Merge remote-tracking branch 'jhalterman/master' into strict-conversion",
+    "committedDate": "2013-07-16T09:31:29Z"
+  },
+  {
+    "message": "Fixed #8 - Added support for global property conditions",
+    "committedDate": "2013-07-12T21:12:02Z"
+  },
+  {
+    "message": "Improved TypeMap javadoc",
+    "committedDate": "2013-07-12T18:41:10Z"
+  },
+  {
+    "message": "Only use partially matched mappings when matching strategy is not exact.",
+    "committedDate": "2013-06-09T23:43:02Z"
+  },
+  {
+    "message": "travis yaml formatting fix",
+    "committedDate": "2013-06-07T04:24:47Z"
+  },
+  {
+    "message": "disable travis e-mail notifications",
+    "committedDate": "2013-06-07T04:21:46Z"
+  },
+  {
+    "message": "Travis ci build status link",
+    "committedDate": "2013-06-07T04:18:02Z"
+  },
+  {
+    "message": "Added travis build status icon",
+    "committedDate": "2013-06-07T04:15:31Z"
+  },
+  {
+    "message": "Added github issue management to parent pom",
+    "committedDate": "2013-06-07T04:10:05Z"
+  },
+  {
+    "message": "Moved gpg plugin to release profile\nMinor meta fixes in parent pom",
+    "committedDate": "2013-06-07T04:07:16Z"
+  },
+  {
+    "message": "Added getParent() to MappingContext",
+    "committedDate": "2013-06-02T04:05:34Z"
+  },
+  { "message": "changelog fix", "committedDate": "2013-06-02T03:35:08Z" },
+  {
+    "message": "Merge pull request #55 from sgp/master\n\nFix for #54 (for core)",
+    "committedDate": "2013-06-02T01:45:37Z"
+  },
+  {
+    "message": "Patch for #54; use maven-bundle-plugin rather than templated MANIFEST.MF",
+    "committedDate": "2013-05-30T13:45:41Z"
+  },
+  {
+    "message": "Simplified provider expressions in property mapping EDSL",
+    "committedDate": "2013-05-14T17:16:24Z"
+  },
+  {
+    "message": "Javabeans name transformers and naming conventions should check for presence of property name after get/is/set prefix.",
+    "committedDate": "2013-05-13T21:00:04Z"
+  },
+  {
+    "message": "Number conversion should use valueOf methods",
+    "committedDate": "2013-05-13T20:11:42Z"
+  },
+  {
+    "message": "Mappings merged from a TypeMap should have Providers copied",
+    "committedDate": "2013-04-17T04:41:33Z"
+  },
+  {
+    "message": "Pre-converter value should be set in context prior to property mapping",
+    "committedDate": "2013-04-17T04:41:18Z"
+  },
+  {
+    "message": "updated readme to mention contributions",
+    "committedDate": "2013-04-11T16:59:20Z"
+  },
+  {
+    "message": "Enabled ProxyFactory test from jmbreuer",
+    "committedDate": "2013-04-06T17:43:20Z"
+  },
+  {
+    "message": "Test for pull request 39",
+    "committedDate": "2013-04-06T17:35:08Z"
+  },
+  {
+    "message": "Merge branch 'upstream' of git://github.com/jmbreuer/modelmapper into jmbreuer-upstream\n\nConflicts:\n\tcore/src/main/java/org/modelmapper/internal/ProxyFactory.java",
+    "committedDate": "2013-04-06T17:34:56Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2013-03-21T15:21:57Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.5.6",
+    "committedDate": "2013-03-21T15:21:45Z"
+  },
+  { "message": "updated changelog", "committedDate": "2013-03-21T15:20:56Z" },
+  {
+    "message": "Removed unneeded test",
+    "committedDate": "2013-03-20T15:07:32Z"
+  },
+  {
+    "message": "Added test assertions for issue 46",
+    "committedDate": "2013-03-20T05:40:14Z"
+  },
+  { "message": "Fixed issue #46", "committedDate": "2013-03-20T05:35:52Z" },
+  {
+    "message": "Merge pull request #45 from devnied/master\n\nFix Android compatibility (remove java.beans.Introspector import)",
+    "committedDate": "2013-03-17T21:29:23Z"
+  },
+  {
+    "message": "Move decapitalize method to Strings class",
+    "committedDate": "2013-03-17T21:22:30Z"
+  },
+  {
+    "message": "Remove the java.beans.Introspector import\n\nAdd compatibility with Android.\nIn Android only few classes and interfaces of java.beans.* are\navailable, but not the whole package.",
+    "committedDate": "2013-03-17T18:35:11Z"
+  },
+  {
+    "message": "Property resolution should use depth-first search such that child properties override parents.",
+    "committedDate": "2013-03-13T05:09:09Z"
+  },
+  {
+    "message": "Added support for pre and post Converters. Fixes issue #42.",
+    "committedDate": "2013-03-12T05:29:30Z"
+  },
+  { "message": "WIP", "committedDate": "2013-03-12T04:21:13Z" },
+  {
+    "message": "Proper short circuit when matching properties from existing TypeMaps",
+    "committedDate": "2013-03-06T19:06:21Z"
+  },
+  {
+    "message": "Added overloaded child mapping context creation method.",
+    "committedDate": "2013-03-04T00:13:39Z"
+  },
+  { "message": "Fixed issue #40", "committedDate": "2013-03-03T23:55:39Z" },
+  {
+    "message": "Fixed incorrect short circuit when exact mappings were matched - fixes issue #31",
+    "committedDate": "2013-03-03T22:33:00Z"
+  },
+  {
+    "message": "Removed WIP test for issue 25",
+    "committedDate": "2013-03-03T22:31:38Z"
+  },
+  {
+    "message": "Improved the ambiguous destination error message to include the complete destination hierarchy",
+    "committedDate": "2013-03-03T22:31:22Z"
+  },
+  {
+    "message": "Merge branch 'master' into gh31",
+    "committedDate": "2013-03-03T20:46:25Z"
+  },
+  {
+    "message": "Fix map/convert to String type",
+    "committedDate": "2013-02-18T09:57:20Z"
+  },
+  {
+    "message": "Correctly handle intercepted mutator calls from constructors of mapped\nclasses",
+    "committedDate": "2013-02-18T09:57:13Z"
+  },
+  {
+    "message": "Loosened Proxy class name matching criteria. Fixes issue #38.",
+    "committedDate": "2013-02-17T17:10:44Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2013-02-14T22:24:48Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.5.5",
+    "committedDate": "2013-02-14T22:24:42Z"
+  },
+  { "message": "Updated changelog", "committedDate": "2013-02-14T22:23:51Z" },
+  { "message": "Fixed issue #37", "committedDate": "2013-02-11T07:05:14Z" },
+  {
+    "message": "TypeTokens are only created for initial entry",
+    "committedDate": "2013-01-20T05:31:19Z"
+  },
+  {
+    "message": "Merge branch 'gh34'\n\nConflicts:\n\tcore/src/test/java/org/modelmapper/internal/converter/AbstractConverterTest.java",
+    "committedDate": "2013-01-20T04:54:39Z"
+  },
+  { "message": "Fixed #34", "committedDate": "2013-01-20T04:53:39Z" },
+  { "message": "Fixed #34", "committedDate": "2013-01-20T04:35:56Z" },
+  { "message": "WIP", "committedDate": "2013-01-19T17:48:13Z" },
+  { "message": "WIP", "committedDate": "2013-01-07T17:02:28Z" },
+  {
+    "message": "Merge branch 'master' into gh31",
+    "committedDate": "2013-01-06T17:08:45Z"
+  },
+  { "message": "Fixed issue #6.", "committedDate": "2013-01-06T03:04:54Z" },
+  {
+    "message": "Added toString implementations to conventions",
+    "committedDate": "2013-01-01T15:46:48Z"
+  },
+  { "message": "WIP", "committedDate": "2013-01-01T15:41:38Z" },
+  { "message": "updated changelog", "committedDate": "2012-12-24T07:24:06Z" },
+  { "message": "removed unused test", "committedDate": "2012-12-24T07:19:04Z" },
+  { "message": "Merge branch 'gh23'", "committedDate": "2012-12-24T07:16:46Z" },
+  { "message": "Fixed issue #23", "committedDate": "2012-12-24T07:16:39Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2012-12-22T16:06:31Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.5.4",
+    "committedDate": "2012-12-22T16:06:23Z"
+  },
+  {
+    "message": "Updated changes.txt prior to release",
+    "committedDate": "2012-12-22T16:05:33Z"
+  },
+  { "message": "Fixed GH30", "committedDate": "2012-12-22T15:58:21Z" },
+  { "message": "WIP", "committedDate": "2012-12-22T14:41:09Z" },
+  {
+    "message": "cleaned up and simplified examples",
+    "committedDate": "2012-12-15T04:15:31Z"
+  },
+  {
+    "message": "added getting started example",
+    "committedDate": "2012-12-15T03:34:02Z"
+  },
+  {
+    "message": "Merge branch 'master' into gh23",
+    "committedDate": "2012-12-15T02:43:28Z"
+  },
+  { "message": "Fixed issue #27", "committedDate": "2012-12-14T18:48:06Z" },
+  {
+    "message": "Merge pull request #18 from Flet/manifest\n\nupdating manifest.mf generation to use a template manifiest.mf instead",
+    "committedDate": "2012-12-14T17:07:55Z"
+  },
+  { "message": "WIP", "committedDate": "2012-12-14T17:07:47Z" },
+  { "message": "fixed issue #26", "committedDate": "2012-12-10T21:48:42Z" },
+  { "message": "simplified readme", "committedDate": "2012-12-03T05:42:03Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2012-11-22T21:40:28Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.5.3",
+    "committedDate": "2012-11-22T21:40:22Z"
+  },
+  {
+    "message": "Better error message in CalendarConverter",
+    "committedDate": "2012-11-22T21:39:24Z"
+  },
+  { "message": "updated changelog", "committedDate": "2012-11-22T21:25:17Z" },
+  { "message": "Fixed GH issue #22", "committedDate": "2012-11-22T21:22:00Z" },
+  { "message": "updated changelog", "committedDate": "2012-11-20T21:54:17Z" },
+  {
+    "message": "Added support for XMLGregorianCalendar conversion and separated Date and Calendar conversion",
+    "committedDate": "2012-11-20T21:36:49Z"
+  },
+  {
+    "message": "Merging from a TypeMap with a Converter",
+    "committedDate": "2012-11-20T05:30:33Z"
+  },
+  { "message": "TypeMap doc update", "committedDate": "2012-11-20T03:54:52Z" },
+  {
+    "message": "Test demonstration mapping to immutable objects",
+    "committedDate": "2012-11-19T21:12:24Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2012-11-18T23:59:30Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.5.2",
+    "committedDate": "2012-11-18T23:59:24Z"
+  },
+  {
+    "message": "Fixed issue #19 - Merged mappings should respect MatchingStrategy",
+    "committedDate": "2012-11-17T02:23:43Z"
+  },
+  {
+    "message": "optimize EnumConverter",
+    "committedDate": "2012-11-17T01:16:48Z"
+  },
+  { "message": "test for issue #20", "committedDate": "2012-11-17T01:11:22Z" },
+  {
+    "message": "Enhanced enum conversion to support String->Enum - issue #20",
+    "committedDate": "2012-11-17T00:53:17Z"
+  },
+  {
+    "message": "revert build status till it works well...",
+    "committedDate": "2012-11-15T01:09:49Z"
+  },
+  {
+    "message": "add build status image",
+    "committedDate": "2012-11-15T00:30:20Z"
+  },
+  { "message": "travis setup", "committedDate": "2012-11-15T00:27:43Z" },
+  {
+    "message": "updating manifest.mf generation to use a template manifiest.mf instead\nas it was missing some shaded packages since the shading happens after\nmanifest generation in the maven lifecycle. \n\nWe had much better luck integrating this jar in our osgi application\nusing this new manifest.mf",
+    "committedDate": "2012-10-26T16:07:34Z"
+  },
+  {
+    "message": "Merge pull request #17 from Flet/manifest\n\nupdated pom.xml so manifest.mf contains OSGi bundle information",
+    "committedDate": "2012-10-22T21:49:32Z"
+  },
+  {
+    "message": "updating maven-bundle-plugin configuration to exclude cglib.core and\ncglib.proxy as they are shaded and will not be required in\nimport-packages for OSGi",
+    "committedDate": "2012-10-20T22:36:48Z"
+  },
+  {
+    "message": "updated pom.xml so manifest.mf contains OSGi bundle\ninformation. This will allow the jar to be easily used in in OSGi\napplications.",
+    "committedDate": "2012-10-20T17:47:28Z"
+  },
+  { "message": "Fixes issue #15", "committedDate": "2012-10-16T23:21:02Z" },
+  {
+    "message": "More consistent API in MappingContext",
+    "committedDate": "2012-10-09T00:02:53Z"
+  },
+  { "message": "Fixed issue #14", "committedDate": "2012-10-08T22:26:48Z" },
+  { "message": "changelog", "committedDate": "2012-09-24T22:56:56Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2012-09-24T22:53:19Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.5.1",
+    "committedDate": "2012-09-24T22:53:11Z"
+  },
+  { "message": "changelog", "committedDate": "2012-09-24T18:40:43Z" },
+  {
+    "message": "Added support for mapped enum conversion. Closes #10.",
+    "committedDate": "2012-09-24T18:36:08Z"
+  },
+  { "message": "updated changelog", "committedDate": "2012-09-24T18:10:24Z" },
+  {
+    "message": "Added trailing delimiter to paths to allow for proper shading",
+    "committedDate": "2012-09-24T18:08:53Z"
+  },
+  {
+    "message": "Merge remote-tracking branch 'i3nAkADj/master' into gh11",
+    "committedDate": "2012-09-24T17:23:36Z"
+  },
+  {
+    "message": "minor change: switched arguments to assertEquals",
+    "committedDate": "2012-09-24T13:22:32Z"
+  },
+  {
+    "message": "test simplified: no need to make the second property a bean itself - it\nis sufficient to be a simple value",
+    "committedDate": "2012-09-24T13:18:59Z"
+  },
+  {
+    "message": "MappingContextImpl.isShaded(..): add trailing dot to test string",
+    "committedDate": "2012-09-24T12:32:32Z"
+  },
+  {
+    "message": "test case added: two properties \"item\" and \"itemX\", item a String, itemX\na class with properties itself",
+    "committedDate": "2012-09-24T12:20:12Z"
+  },
+  { "message": "gh10->gh11", "committedDate": "2012-09-21T19:26:47Z" },
+  {
+    "message": "Fixed scenario where potentially circular mapping overrides valid mapping. Fixes issue #10.",
+    "committedDate": "2012-09-21T19:19:54Z"
+  },
+  {
+    "message": "updated readme links",
+    "committedDate": "2012-09-15T23:47:48Z"
+  },
+  { "message": "doc build updates", "committedDate": "2012-09-15T17:49:44Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2012-09-12T22:02:14Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.5.0",
+    "committedDate": "2012-09-12T22:02:02Z"
+  },
+  { "message": "updated changelog", "committedDate": "2012-09-12T21:51:29Z" },
+  { "message": "simpler readme", "committedDate": "2012-09-12T20:46:53Z" },
+  {
+    "message": "Use existing intermediate objects when mapping to provided destination. Fixes #9.",
+    "committedDate": "2012-09-12T17:22:01Z"
+  },
+  { "message": "WIP", "committedDate": "2012-09-12T16:02:15Z" },
+  { "message": "Fixed provider test", "committedDate": "2012-09-05T00:04:38Z" },
+  {
+    "message": "Updated null behavior test to reflect shaded collection dependencies",
+    "committedDate": "2012-09-05T00:04:27Z"
+  },
+  {
+    "message": "Implemented circular dependency resolution",
+    "committedDate": "2012-09-05T00:04:08Z"
+  },
+  { "message": "Formatting", "committedDate": "2012-09-05T00:03:48Z" },
+  {
+    "message": "Removed commented code from mapping builder",
+    "committedDate": "2012-09-05T00:01:55Z"
+  },
+  {
+    "message": "Simplified TypeMapImpl toString",
+    "committedDate": "2012-09-05T00:01:36Z"
+  },
+  {
+    "message": "Added a test for shared nested mappings",
+    "committedDate": "2012-09-05T00:01:18Z"
+  },
+  { "message": "Test doc fix", "committedDate": "2012-09-05T00:01:06Z" },
+  {
+    "message": "Doc'ed stack as not threadsafe",
+    "committedDate": "2012-09-05T00:00:52Z"
+  },
+  {
+    "message": "Removed circular dependency error message",
+    "committedDate": "2012-09-04T23:59:55Z"
+  },
+  {
+    "message": "Removed unneeded types",
+    "committedDate": "2012-09-04T23:59:03Z"
+  },
+  {
+    "message": "Removed unused import",
+    "committedDate": "2012-09-04T23:58:48Z"
+  },
+  {
+    "message": "Merge branch 'master' into circular",
+    "committedDate": "2012-08-21T22:08:13Z"
+  },
+  {
+    "message": "Implemented STRICT matching strategy",
+    "committedDate": "2012-08-20T21:39:32Z"
+  },
+  { "message": "Merge branch 'gc20'", "committedDate": "2012-08-20T18:05:56Z" },
+  {
+    "message": "Updated TypeInfoRegistry to handle hash collisions",
+    "committedDate": "2012-08-20T18:05:48Z"
+  },
+  {
+    "message": "Added argument checks to ModelMapper API",
+    "committedDate": "2012-08-20T18:05:18Z"
+  },
+  {
+    "message": "Fixed check for existing explicit mappings",
+    "committedDate": "2012-08-20T04:52:10Z"
+  },
+  {
+    "message": "Merge branch 'master' into circular",
+    "committedDate": "2012-08-20T00:37:42Z"
+  },
+  {
+    "message": "circular mapping progress",
+    "committedDate": "2012-08-20T00:36:59Z"
+  },
+  {
+    "message": "circular mapping progress",
+    "committedDate": "2012-08-20T00:36:41Z"
+  },
+  {
+    "message": "Removed unused constructor",
+    "committedDate": "2012-07-27T21:49:12Z"
+  },
+  { "message": "doc fix", "committedDate": "2012-07-27T21:34:29Z" },
+  {
+    "message": "Work on circular tests",
+    "committedDate": "2012-07-27T19:28:57Z"
+  },
+  {
+    "message": "Added some tests from user feedback",
+    "committedDate": "2012-07-26T22:10:23Z"
+  },
+  {
+    "message": "Added Orika to the performance test",
+    "committedDate": "2012-07-26T00:23:05Z"
+  },
+  {
+    "message": "Fixed conversion of char[] to String",
+    "committedDate": "2012-07-25T23:20:18Z"
+  },
+  {
+    "message": "Added isType condition",
+    "committedDate": "2012-07-25T22:44:54Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2012-07-25T22:06:44Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-0.4.0",
+    "committedDate": "2012-07-25T22:06:33Z"
+  },
+  {
+    "message": "cleaned up POMs in preparation for next dev/release cycle",
+    "committedDate": "2012-07-25T21:54:18Z"
+  },
+  {
+    "message": "Cleaned up POMs in preparation for next release cycle",
+    "committedDate": "2012-07-25T21:50:48Z"
+  },
+  {
+    "message": "Added support for TypeMap-wide conditions, converters and providers",
+    "committedDate": "2012-07-25T21:24:23Z"
+  },
+  {
+    "message": "Added collection mapping test",
+    "committedDate": "2012-07-25T17:08:23Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.0.1",
+    "committedDate": "2012-07-25T16:39:51Z"
+  },
+  {
+    "message": "Test for googlecode issue #18",
+    "committedDate": "2012-07-25T14:54:50Z"
+  },
+  { "message": "Moved test", "committedDate": "2012-07-25T14:54:31Z" },
+  {
+    "message": "Exposed source in ProvisionRequest and added corresponding tests",
+    "committedDate": "2012-07-25T05:49:06Z"
+  },
+  {
+    "message": "Added test for googlecode issue #12",
+    "committedDate": "2012-07-25T05:48:44Z"
+  },
+  {
+    "message": "Fixed issue #10 (GC) where multiple source mappings were colliding with each other",
+    "committedDate": "2012-07-25T00:13:57Z"
+  },
+  {
+    "message": "prevent construction of Unknown type",
+    "committedDate": "2012-07-24T22:55:42Z"
+  },
+  {
+    "message": "Minor test compilation fix",
+    "committedDate": "2012-07-24T22:40:13Z"
+  },
+  {
+    "message": "Add support for TypeMap merging and better skipped properties",
+    "committedDate": "2012-07-24T22:34:11Z"
+  },
+  {
+    "message": "Updated circular dependency test for skipped properties",
+    "committedDate": "2012-07-24T22:33:30Z"
+  },
+  { "message": "Merging test", "committedDate": "2012-07-24T22:33:02Z" },
+  { "message": "formatting", "committedDate": "2012-07-24T22:32:52Z" },
+  {
+    "message": "Support source property merging",
+    "committedDate": "2012-07-24T22:32:41Z"
+  },
+  { "message": "updated changes", "committedDate": "2012-07-24T18:48:20Z" },
+  {
+    "message": "Added disambiguation test for generics",
+    "committedDate": "2012-07-24T18:43:46Z"
+  },
+  {
+    "message": "Updated converters to support unknown generic types",
+    "committedDate": "2012-07-24T18:43:33Z"
+  },
+  {
+    "message": "Simplified property and mapping toString output",
+    "committedDate": "2012-07-24T18:43:06Z"
+  },
+  {
+    "message": "Uresolved.class -> Unknown.class",
+    "committedDate": "2012-07-24T18:13:39Z"
+  },
+  {
+    "message": "explicitly indicate unresolved type arguments",
+    "committedDate": "2012-07-24T18:11:40Z"
+  },
+  {
+    "message": "guard against matching Object.class' properties",
+    "committedDate": "2012-07-24T18:11:20Z"
+  },
+  {
+    "message": "Fixed issue with shaded items in a collection",
+    "committedDate": "2012-07-20T22:01:01Z"
+  },
+  {
+    "message": "Removed some maven dependency version ranges which maven3 doens't seem to like",
+    "committedDate": "2012-07-20T21:59:53Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-08-08T18:02:31Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.0.1",
+    "committedDate": "2011-08-08T18:02:23Z"
+  },
+  {
+    "message": "compatibility with Java 5",
+    "committedDate": "2011-08-08T17:54:32Z"
+  },
+  {
+    "message": "Enhanced standard and inexact matching strategy tests",
+    "committedDate": "2011-07-31T21:57:57Z"
+  },
+  {
+    "message": "Updated download location",
+    "committedDate": "2011-07-31T21:57:06Z"
+  },
+  { "message": "JIT typemap test", "committedDate": "2011-07-31T07:34:36Z" },
+  {
+    "message": "Changed ConverterStore converters to use CopyOnWriteArrayList",
+    "committedDate": "2011-07-30T15:43:35Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-07-30T07:51:33Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.4",
+    "committedDate": "2011-07-30T07:51:28Z"
+  },
+  {
+    "message": "GC issue #4 - Exposed conditional converters for mutation",
+    "committedDate": "2011-07-30T07:43:21Z"
+  },
+  {
+    "message": "conditionalconverter refactoring and doc cleanup",
+    "committedDate": "2011-07-30T05:09:05Z"
+  },
+  {
+    "message": "added method interceptor filter for finalize methods",
+    "committedDate": "2011-07-30T04:54:53Z"
+  },
+  {
+    "message": "refactoring conditionalconverter API",
+    "committedDate": "2011-07-30T04:51:22Z"
+  },
+  {
+    "message": "added a collection mapping test",
+    "committedDate": "2011-07-29T05:36:31Z"
+  },
+  { "message": "test fix", "committedDate": "2011-07-28T00:40:31Z" },
+  {
+    "message": "conditional converter api cleanup",
+    "committedDate": "2011-07-28T00:38:07Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-07-27T07:10:35Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.3",
+    "committedDate": "2011-07-27T07:10:29Z"
+  },
+  {
+    "message": "Fixed issue #3 (googlecode)",
+    "committedDate": "2011-07-27T06:43:27Z"
+  },
+  {
+    "message": "Fixed Issue #2 (googlecode)",
+    "committedDate": "2011-07-27T06:25:20Z"
+  },
+  { "message": "moved docgen script", "committedDate": "2011-07-27T05:43:14Z" },
+  { "message": "test refactorings", "committedDate": "2011-07-27T05:32:05Z" },
+  { "message": "collection tests", "committedDate": "2011-07-27T00:26:53Z" },
+  {
+    "message": "functional tests for collections",
+    "committedDate": "2011-07-27T00:19:56Z"
+  },
+  { "message": "accessibility check", "committedDate": "2011-07-26T06:30:19Z" },
+  {
+    "message": "performance enhancements",
+    "committedDate": "2011-07-26T06:05:47Z"
+  },
+  {
+    "message": "initial performance test",
+    "committedDate": "2011-07-26T00:46:26Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-07-23T22:47:27Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.2",
+    "committedDate": "2011-07-23T22:47:17Z"
+  },
+  {
+    "message": "Revert \"[maven-release-plugin] prepare release modelmapper-0.3.2\"\n\nThis reverts commit d6e1365aabf4c96298d7a5ba0949eb74b44e5c16.",
+    "committedDate": "2011-07-23T22:42:33Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.2",
+    "committedDate": "2011-07-23T22:33:01Z"
+  },
+  {
+    "message": "setting parent pom references for future releases",
+    "committedDate": "2011-07-23T22:26:06Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-07-20T05:51:06Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-parent-1.0.0",
+    "committedDate": "2011-07-20T05:50:59Z"
+  },
+  {
+    "message": "rolled back class file version to 1.5",
+    "committedDate": "2011-07-20T05:19:56Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.1",
+    "committedDate": "2011-07-19T05:38:07Z"
+  },
+  {
+    "message": "project info cleanup",
+    "committedDate": "2011-07-18T17:43:04Z"
+  },
+  { "message": "build cleanup", "committedDate": "2011-07-18T17:32:57Z" },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-07-18T04:55:37Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-spring-0.3.0",
+    "committedDate": "2011-07-18T04:55:31Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-07-18T04:52:39Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-guice-0.3.0",
+    "committedDate": "2011-07-18T04:52:34Z"
+  },
+  {
+    "message": "rolling back version",
+    "committedDate": "2011-07-18T04:51:53Z"
+  },
+  {
+    "message": "Merge branch 'master' of github.com:jhalterman/modelmapper",
+    "committedDate": "2011-07-18T04:51:20Z"
+  },
+  {
+    "message": "adding scm info to extensions to support releases",
+    "committedDate": "2011-07-18T04:51:08Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-guice-0.3.0",
+    "committedDate": "2011-07-18T04:45:53Z"
+  },
+  {
+    "message": "pom updates for releasing extensions",
+    "committedDate": "2011-07-18T04:45:22Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare for next development iteration",
+    "committedDate": "2011-07-18T04:11:31Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.1",
+    "committedDate": "2011-07-18T04:11:25Z"
+  },
+  { "message": "build stuff", "committedDate": "2011-07-18T04:10:36Z" },
+  {
+    "message": "refactoring for multi-project maven build",
+    "committedDate": "2011-07-17T22:52:03Z"
+  },
+  { "message": "build updates", "committedDate": "2011-07-10T23:56:02Z" },
+  {
+    "message": "battling the maven release plugin",
+    "committedDate": "2011-07-10T23:49:32Z"
+  },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.1",
+    "committedDate": "2011-07-10T23:40:28Z"
+  },
+  { "message": "build updates", "committedDate": "2011-07-10T23:39:23Z" },
+  { "message": "build cleanup", "committedDate": "2011-07-10T23:34:47Z" },
+  { "message": "build cleanup", "committedDate": "2011-07-10T23:33:44Z" },
+  {
+    "message": "[maven-release-plugin] prepare release modelmapper-0.3.1",
+    "committedDate": "2011-07-10T23:23:34Z"
+  },
+  {
+    "message": "ignoreing mvn generated javadocs",
+    "committedDate": "2011-07-10T23:21:23Z"
+  },
+  { "message": "doc cleanup", "committedDate": "2011-07-10T20:54:33Z" },
+  { "message": "pom updates", "committedDate": "2011-07-10T20:53:32Z" },
+  { "message": "pom changes", "committedDate": "2011-07-10T20:27:44Z" },
+  { "message": "mvn central setup", "committedDate": "2011-07-10T05:47:22Z" },
+  {
+    "message": "updated poms for maven central compatibility",
+    "committedDate": "2011-07-10T05:24:10Z"
+  },
+  {
+    "message": "prepping POMs for maven central",
+    "committedDate": "2011-07-10T05:03:29Z"
+  },
+  {
+    "message": "collection mapping tests for different typed elements",
+    "committedDate": "2011-06-29T22:52:13Z"
+  },
+  { "message": "pom version updates", "committedDate": "2011-06-29T00:41:25Z" },
+  {
+    "message": "removed unused maven assembly",
+    "committedDate": "2011-06-29T00:34:31Z"
+  },
+  {
+    "message": "separated core and extension versioning",
+    "committedDate": "2011-06-29T00:33:08Z"
+  },
+  {
+    "message": "cleaned up license tags and javadoc",
+    "committedDate": "2011-06-28T18:01:21Z"
+  },
+  {
+    "message": "updated pom for central repo",
+    "committedDate": "2011-06-28T17:41:00Z"
+  },
+  { "message": "version 0.3.1", "committedDate": "2011-06-28T05:26:47Z" },
+  {
+    "message": "circular dependencies",
+    "committedDate": "2011-06-28T05:21:39Z"
+  },
+  {
+    "message": "support for separate source verification to conditional converters",
+    "committedDate": "2011-06-28T00:20:21Z"
+  },
+  {
+    "message": "property shading, generic conditions, generic mapping fixes",
+    "committedDate": "2011-06-25T00:19:01Z"
+  },
+  {
+    "message": "updated gitignore for javadocs",
+    "committedDate": "2011-06-22T07:04:45Z"
+  },
+  { "message": "javadoc push script", "committedDate": "2011-06-22T07:02:12Z" },
+  { "message": "javadocs update", "committedDate": "2011-06-22T06:11:10Z" },
+  { "message": "doc cleanup", "committedDate": "2011-06-22T05:25:20Z" },
+  {
+    "message": "added links to readme",
+    "committedDate": "2011-06-22T05:13:00Z"
+  },
+  { "message": "shaded core build", "committedDate": "2011-06-21T23:03:38Z" },
+  {
+    "message": "added download link to readme",
+    "committedDate": "2011-06-21T21:52:06Z"
+  },
+  {
+    "message": "build config updates",
+    "committedDate": "2011-06-21T07:38:34Z"
+  },
+  { "message": "initial commit", "committedDate": "2011-06-21T04:12:24Z" }
+]

@@ -1,0 +1,192 @@
+{
+  "name": "d3",
+  "children": [
+    {
+      "name": ".eslintrc.json",
+      "path": ".eslintrc.json",
+      "type": "blob",
+      "mode": "100644",
+      "value": 113
+    },
+    {
+      "name": ".github",
+      "path": ".github",
+      "type": "tree",
+      "mode": "040000",
+      "children": [
+        {
+          "name": "eslint.json",
+          "path": ".github/eslint.json",
+          "type": "blob",
+          "mode": "100644",
+          "value": 367
+        },
+        {
+          "name": "workflows",
+          "path": ".github/workflows",
+          "type": "tree",
+          "mode": "040000",
+          "children": [
+            {
+              "name": "node.js.yml",
+              "path": ".github/workflows/node.js.yml",
+              "type": "blob",
+              "mode": "100644",
+              "value": 648
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": ".gitignore",
+      "path": ".gitignore",
+      "type": "blob",
+      "mode": "100644",
+      "value": 63
+    },
+    {
+      "name": "API.md",
+      "path": "API.md",
+      "type": "blob",
+      "mode": "100644",
+      "value": 158753
+    },
+    {
+      "name": "CHANGES.md",
+      "path": "CHANGES.md",
+      "type": "blob",
+      "mode": "100644",
+      "value": 161916
+    },
+    {
+      "name": "ISSUE_TEMPLATE.md",
+      "path": "ISSUE_TEMPLATE.md",
+      "type": "blob",
+      "mode": "100644",
+      "value": 671
+    },
+    {
+      "name": "LICENSE",
+      "path": "LICENSE",
+      "type": "blob",
+      "mode": "100644",
+      "value": 731
+    },
+    {
+      "name": "README.md",
+      "path": "README.md",
+      "type": "blob",
+      "mode": "100644",
+      "value": 2480
+    },
+    {
+      "name": "bundle.js",
+      "path": "bundle.js",
+      "type": "blob",
+      "mode": "100644",
+      "value": 72
+    },
+    {
+      "name": "img",
+      "path": "img",
+      "type": "tree",
+      "mode": "040000",
+      "children": [
+        {
+          "name": "axis-v3.png",
+          "path": "img/axis-v3.png",
+          "type": "blob",
+          "mode": "100644",
+          "value": 4949
+        },
+        {
+          "name": "axis-v4.png",
+          "path": "img/axis-v4.png",
+          "type": "blob",
+          "mode": "100644",
+          "value": 5530
+        },
+        {
+          "name": "pack-v3.png",
+          "path": "img/pack-v3.png",
+          "type": "blob",
+          "mode": "100644",
+          "value": 119302
+        },
+        {
+          "name": "pack-v4.png",
+          "path": "img/pack-v4.png",
+          "type": "blob",
+          "mode": "100644",
+          "value": 167134
+        },
+        {
+          "name": "stratify.png",
+          "path": "img/stratify.png",
+          "type": "blob",
+          "mode": "100644",
+          "value": 9581
+        }
+      ]
+    },
+    {
+      "name": "package.json",
+      "path": "package.json",
+      "type": "blob",
+      "mode": "100644",
+      "value": 2095
+    },
+    {
+      "name": "rollup.config.js",
+      "path": "rollup.config.js",
+      "type": "blob",
+      "mode": "100644",
+      "value": 1233
+    },
+    {
+      "name": "src",
+      "path": "src",
+      "type": "tree",
+      "mode": "040000",
+      "children": [
+        {
+          "name": "index.js",
+          "path": "src/index.js",
+          "type": "blob",
+          "mode": "100644",
+          "value": 820
+        }
+      ]
+    },
+    {
+      "name": "test",
+      "path": "test",
+      "type": "tree",
+      "mode": "040000",
+      "children": [
+        {
+          "name": ".eslintrc.json",
+          "path": "test/.eslintrc.json",
+          "type": "blob",
+          "mode": "100644",
+          "value": 148
+        },
+        {
+          "name": "d3-test.js",
+          "path": "test/d3-test.js",
+          "type": "blob",
+          "mode": "100644",
+          "value": 666
+        }
+      ]
+    },
+    {
+      "name": "yarn.lock",
+      "path": "yarn.lock",
+      "type": "blob",
+      "mode": "100644",
+      "value": 69861
+    }
+  ]
+}
